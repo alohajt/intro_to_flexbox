@@ -1,0 +1,9 @@
+h1 {
+    color: goldenrod;
+}
+
+ul {
+    color: palegreen;
+    display: flex;
+    list-style-type: none;
+}
